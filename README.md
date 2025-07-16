@@ -2,7 +2,7 @@
 
 This project analyzes Zomato's Bangalore restaurant dataset to uncover insights about customer behavior, popular cuisines, location-based trends, and service facilities. It uses Python libraries like Pandas, Seaborn, and Matplotlib to perform a complete exploratory data analysis (EDA).
 
-![Project Thumbnail](Zomato-Data-Analysis.png)
+![Project Thumbnail](Zomato_Data_Analysis.png)
 
 ---
 
